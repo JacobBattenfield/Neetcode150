@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\Neetcode150\4GroupAnagrams\bin\Debug\net8.0\4GroupAnagrams.exe
+C:\Users\jacob\Desktop\Neetcode150\4GroupAnagrams\bin\Debug\net8.0\4GroupAnagrams.deps.json
+C:\Users\jacob\Desktop\Neetcode150\4GroupAnagrams\bin\Debug\net8.0\4GroupAnagrams.runtimeconfig.json
+C:\Users\jacob\Desktop\Neetcode150\4GroupAnagrams\bin\Debug\net8.0\4GroupAnagrams.dll
+C:\Users\jacob\Desktop\Neetcode150\4GroupAnagrams\bin\Debug\net8.0\4GroupAnagrams.pdb
+C:\Users\jacob\Desktop\Neetcode150\4GroupAnagrams\obj\Debug\net8.0\4GroupAnagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\Neetcode150\4GroupAnagrams\obj\Debug\net8.0\4GroupAnagrams.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\4GroupAnagrams\obj\Debug\net8.0\4GroupAnagrams.AssemblyInfo.cs
+C:\Users\jacob\Desktop\Neetcode150\4GroupAnagrams\obj\Debug\net8.0\4GroupAnagrams.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\4GroupAnagrams\obj\Debug\net8.0\4GroupAnagrams.sourcelink.json
+C:\Users\jacob\Desktop\Neetcode150\4GroupAnagrams\obj\Debug\net8.0\4GroupAnagrams.dll
+C:\Users\jacob\Desktop\Neetcode150\4GroupAnagrams\obj\Debug\net8.0\refint\4GroupAnagrams.dll
+C:\Users\jacob\Desktop\Neetcode150\4GroupAnagrams\obj\Debug\net8.0\4GroupAnagrams.pdb
+C:\Users\jacob\Desktop\Neetcode150\4GroupAnagrams\obj\Debug\net8.0\4GroupAnagrams.genruntimeconfig.cache
+C:\Users\jacob\Desktop\Neetcode150\4GroupAnagrams\obj\Debug\net8.0\ref\4GroupAnagrams.dll
