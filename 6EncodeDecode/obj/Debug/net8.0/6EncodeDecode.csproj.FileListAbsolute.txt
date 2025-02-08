@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\Neetcode150\6EncodeDecode\bin\Debug\net8.0\6EncodeDecode.exe
+C:\Users\jacob\Desktop\Neetcode150\6EncodeDecode\bin\Debug\net8.0\6EncodeDecode.deps.json
+C:\Users\jacob\Desktop\Neetcode150\6EncodeDecode\bin\Debug\net8.0\6EncodeDecode.runtimeconfig.json
+C:\Users\jacob\Desktop\Neetcode150\6EncodeDecode\bin\Debug\net8.0\6EncodeDecode.dll
+C:\Users\jacob\Desktop\Neetcode150\6EncodeDecode\bin\Debug\net8.0\6EncodeDecode.pdb
+C:\Users\jacob\Desktop\Neetcode150\6EncodeDecode\obj\Debug\net8.0\6EncodeDecode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\Neetcode150\6EncodeDecode\obj\Debug\net8.0\6EncodeDecode.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\6EncodeDecode\obj\Debug\net8.0\6EncodeDecode.AssemblyInfo.cs
+C:\Users\jacob\Desktop\Neetcode150\6EncodeDecode\obj\Debug\net8.0\6EncodeDecode.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\6EncodeDecode\obj\Debug\net8.0\6EncodeDecode.sourcelink.json
+C:\Users\jacob\Desktop\Neetcode150\6EncodeDecode\obj\Debug\net8.0\6EncodeDecode.dll
+C:\Users\jacob\Desktop\Neetcode150\6EncodeDecode\obj\Debug\net8.0\refint\6EncodeDecode.dll
+C:\Users\jacob\Desktop\Neetcode150\6EncodeDecode\obj\Debug\net8.0\6EncodeDecode.pdb
+C:\Users\jacob\Desktop\Neetcode150\6EncodeDecode\obj\Debug\net8.0\6EncodeDecode.genruntimeconfig.cache
+C:\Users\jacob\Desktop\Neetcode150\6EncodeDecode\obj\Debug\net8.0\ref\6EncodeDecode.dll
