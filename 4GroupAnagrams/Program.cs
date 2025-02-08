@@ -35,18 +35,25 @@ class Solution{
         return AnagramGorups.Values.ToList();
     }*/
     static List<List<string>> GroupAnagrams(string[] strs){
+        //Create A HashMap With The Key Being A String Of Numbers And The Value Being A List Of Anagrams
         var HashMap = new Dictionary<string, List<string>>();
+        //forevery word in strings, initialize a count(key) with 26 letters
         foreach(string s in strs){
             int[] count = new int[26];
+            //for every character in word we are going to subtract it by 'a' to get the index, increment at that index
             foreach(char c in s){
                 count[c-'a']++;
             }
+            //form the key out of our integer array
             string key = string.Join(",",count);
+            //if the hashmap doens't contain the key then we will initialize a new key under the number string
             if(!HashMap.ContainsKey(key)){
                 HashMap[key] = [];
             }
+            //if the hashmap does contain the key then we will add the word to the corresponding key
             HashMap[key].Add(s);
         }
+        //return the nested list of anagrams in proper order.
         return HashMap.Values.ToList<List<string>>();
     }
 }

@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-10", "1-10", "{A6C0A3BE-8CBB-33B8-99D5-B01074A67A20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1ContainsDuplicates", "1-10\1ContainsDuplicates\1ContainsDuplicates.csproj", "{45FA232E-AA5C-E55B-6298-B5E28C12552C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45FA232E-AA5C-E55B-6298-B5E28C12552C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FA232E-AA5C-E55B-6298-B5E28C12552C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FA232E-AA5C-E55B-6298-B5E28C12552C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FA232E-AA5C-E55B-6298-B5E28C12552C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{45FA232E-AA5C-E55B-6298-B5E28C12552C} = {A6C0A3BE-8CBB-33B8-99D5-B01074A67A20}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CCEAAAA-2610-49DE-A77F-64A614EE1C5D}
+	EndGlobalSection
+EndGlobal

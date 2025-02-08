@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\Neetcode150\3TwoSum\bin\Debug\net8.0\3TwoSum.exe
+C:\Users\jacob\Desktop\Neetcode150\3TwoSum\bin\Debug\net8.0\3TwoSum.deps.json
+C:\Users\jacob\Desktop\Neetcode150\3TwoSum\bin\Debug\net8.0\3TwoSum.runtimeconfig.json
+C:\Users\jacob\Desktop\Neetcode150\3TwoSum\bin\Debug\net8.0\3TwoSum.dll
+C:\Users\jacob\Desktop\Neetcode150\3TwoSum\bin\Debug\net8.0\3TwoSum.pdb
+C:\Users\jacob\Desktop\Neetcode150\3TwoSum\obj\Debug\net8.0\3TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\Neetcode150\3TwoSum\obj\Debug\net8.0\3TwoSum.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\3TwoSum\obj\Debug\net8.0\3TwoSum.AssemblyInfo.cs
+C:\Users\jacob\Desktop\Neetcode150\3TwoSum\obj\Debug\net8.0\3TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\3TwoSum\obj\Debug\net8.0\3TwoSum.sourcelink.json
+C:\Users\jacob\Desktop\Neetcode150\3TwoSum\obj\Debug\net8.0\3TwoSum.dll
+C:\Users\jacob\Desktop\Neetcode150\3TwoSum\obj\Debug\net8.0\refint\3TwoSum.dll
+C:\Users\jacob\Desktop\Neetcode150\3TwoSum\obj\Debug\net8.0\3TwoSum.pdb
+C:\Users\jacob\Desktop\Neetcode150\3TwoSum\obj\Debug\net8.0\3TwoSum.genruntimeconfig.cache
+C:\Users\jacob\Desktop\Neetcode150\3TwoSum\obj\Debug\net8.0\ref\3TwoSum.dll

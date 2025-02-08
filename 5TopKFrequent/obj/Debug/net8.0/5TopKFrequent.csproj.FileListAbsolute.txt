@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\Neetcode150\5TopKFrequent\bin\Debug\net8.0\5TopKFrequent.exe
+C:\Users\jacob\Desktop\Neetcode150\5TopKFrequent\bin\Debug\net8.0\5TopKFrequent.deps.json
+C:\Users\jacob\Desktop\Neetcode150\5TopKFrequent\bin\Debug\net8.0\5TopKFrequent.runtimeconfig.json
+C:\Users\jacob\Desktop\Neetcode150\5TopKFrequent\bin\Debug\net8.0\5TopKFrequent.dll
+C:\Users\jacob\Desktop\Neetcode150\5TopKFrequent\bin\Debug\net8.0\5TopKFrequent.pdb
+C:\Users\jacob\Desktop\Neetcode150\5TopKFrequent\obj\Debug\net8.0\5TopKFrequent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\Neetcode150\5TopKFrequent\obj\Debug\net8.0\5TopKFrequent.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\5TopKFrequent\obj\Debug\net8.0\5TopKFrequent.AssemblyInfo.cs
+C:\Users\jacob\Desktop\Neetcode150\5TopKFrequent\obj\Debug\net8.0\5TopKFrequent.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\5TopKFrequent\obj\Debug\net8.0\5TopKFrequent.sourcelink.json
+C:\Users\jacob\Desktop\Neetcode150\5TopKFrequent\obj\Debug\net8.0\5TopKFrequent.dll
+C:\Users\jacob\Desktop\Neetcode150\5TopKFrequent\obj\Debug\net8.0\refint\5TopKFrequent.dll
+C:\Users\jacob\Desktop\Neetcode150\5TopKFrequent\obj\Debug\net8.0\5TopKFrequent.pdb
+C:\Users\jacob\Desktop\Neetcode150\5TopKFrequent\obj\Debug\net8.0\5TopKFrequent.genruntimeconfig.cache
+C:\Users\jacob\Desktop\Neetcode150\5TopKFrequent\obj\Debug\net8.0\ref\5TopKFrequent.dll
