@@ -1,6 +1,4 @@
-﻿using System.Security.Permissions;
-using System.Text;
-using System.Xml.XPath;
+﻿
 
 class Program{
     static void Main(){

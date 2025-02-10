@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\Neetcode150\7ProductsExceptSelf\bin\Debug\net8.0\7ProductsExceptSelf.exe
+C:\Users\jacob\Desktop\Neetcode150\7ProductsExceptSelf\bin\Debug\net8.0\7ProductsExceptSelf.deps.json
+C:\Users\jacob\Desktop\Neetcode150\7ProductsExceptSelf\bin\Debug\net8.0\7ProductsExceptSelf.runtimeconfig.json
+C:\Users\jacob\Desktop\Neetcode150\7ProductsExceptSelf\bin\Debug\net8.0\7ProductsExceptSelf.dll
+C:\Users\jacob\Desktop\Neetcode150\7ProductsExceptSelf\bin\Debug\net8.0\7ProductsExceptSelf.pdb
+C:\Users\jacob\Desktop\Neetcode150\7ProductsExceptSelf\obj\Debug\net8.0\7ProductsExceptSelf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\Neetcode150\7ProductsExceptSelf\obj\Debug\net8.0\7ProductsExceptSelf.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\7ProductsExceptSelf\obj\Debug\net8.0\7ProductsExceptSelf.AssemblyInfo.cs
+C:\Users\jacob\Desktop\Neetcode150\7ProductsExceptSelf\obj\Debug\net8.0\7ProductsExceptSelf.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\7ProductsExceptSelf\obj\Debug\net8.0\7ProductsExceptSelf.sourcelink.json
+C:\Users\jacob\Desktop\Neetcode150\7ProductsExceptSelf\obj\Debug\net8.0\7ProductsExceptSelf.dll
+C:\Users\jacob\Desktop\Neetcode150\7ProductsExceptSelf\obj\Debug\net8.0\refint\7ProductsExceptSelf.dll
+C:\Users\jacob\Desktop\Neetcode150\7ProductsExceptSelf\obj\Debug\net8.0\7ProductsExceptSelf.pdb
+C:\Users\jacob\Desktop\Neetcode150\7ProductsExceptSelf\obj\Debug\net8.0\7ProductsExceptSelf.genruntimeconfig.cache
+C:\Users\jacob\Desktop\Neetcode150\7ProductsExceptSelf\obj\Debug\net8.0\ref\7ProductsExceptSelf.dll

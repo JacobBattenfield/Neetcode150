@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\Neetcode150\9LongestSequence\bin\Debug\net8.0\9LongestSequence.exe
+C:\Users\jacob\Desktop\Neetcode150\9LongestSequence\bin\Debug\net8.0\9LongestSequence.deps.json
+C:\Users\jacob\Desktop\Neetcode150\9LongestSequence\bin\Debug\net8.0\9LongestSequence.runtimeconfig.json
+C:\Users\jacob\Desktop\Neetcode150\9LongestSequence\bin\Debug\net8.0\9LongestSequence.dll
+C:\Users\jacob\Desktop\Neetcode150\9LongestSequence\bin\Debug\net8.0\9LongestSequence.pdb
+C:\Users\jacob\Desktop\Neetcode150\9LongestSequence\obj\Debug\net8.0\9LongestSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\Neetcode150\9LongestSequence\obj\Debug\net8.0\9LongestSequence.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\9LongestSequence\obj\Debug\net8.0\9LongestSequence.AssemblyInfo.cs
+C:\Users\jacob\Desktop\Neetcode150\9LongestSequence\obj\Debug\net8.0\9LongestSequence.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\9LongestSequence\obj\Debug\net8.0\9LongestSequence.sourcelink.json
+C:\Users\jacob\Desktop\Neetcode150\9LongestSequence\obj\Debug\net8.0\9LongestSequence.dll
+C:\Users\jacob\Desktop\Neetcode150\9LongestSequence\obj\Debug\net8.0\refint\9LongestSequence.dll
+C:\Users\jacob\Desktop\Neetcode150\9LongestSequence\obj\Debug\net8.0\9LongestSequence.pdb
+C:\Users\jacob\Desktop\Neetcode150\9LongestSequence\obj\Debug\net8.0\9LongestSequence.genruntimeconfig.cache
+C:\Users\jacob\Desktop\Neetcode150\9LongestSequence\obj\Debug\net8.0\ref\9LongestSequence.dll

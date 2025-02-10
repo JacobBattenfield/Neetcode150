@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\Neetcode150\8ValidSudoku\bin\Debug\net8.0\8ValidSudoku.exe
+C:\Users\jacob\Desktop\Neetcode150\8ValidSudoku\bin\Debug\net8.0\8ValidSudoku.deps.json
+C:\Users\jacob\Desktop\Neetcode150\8ValidSudoku\bin\Debug\net8.0\8ValidSudoku.runtimeconfig.json
+C:\Users\jacob\Desktop\Neetcode150\8ValidSudoku\bin\Debug\net8.0\8ValidSudoku.dll
+C:\Users\jacob\Desktop\Neetcode150\8ValidSudoku\bin\Debug\net8.0\8ValidSudoku.pdb
+C:\Users\jacob\Desktop\Neetcode150\8ValidSudoku\obj\Debug\net8.0\8ValidSudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\Neetcode150\8ValidSudoku\obj\Debug\net8.0\8ValidSudoku.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\8ValidSudoku\obj\Debug\net8.0\8ValidSudoku.AssemblyInfo.cs
+C:\Users\jacob\Desktop\Neetcode150\8ValidSudoku\obj\Debug\net8.0\8ValidSudoku.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\8ValidSudoku\obj\Debug\net8.0\8ValidSudoku.sourcelink.json
+C:\Users\jacob\Desktop\Neetcode150\8ValidSudoku\obj\Debug\net8.0\8ValidSudoku.dll
+C:\Users\jacob\Desktop\Neetcode150\8ValidSudoku\obj\Debug\net8.0\refint\8ValidSudoku.dll
+C:\Users\jacob\Desktop\Neetcode150\8ValidSudoku\obj\Debug\net8.0\8ValidSudoku.pdb
+C:\Users\jacob\Desktop\Neetcode150\8ValidSudoku\obj\Debug\net8.0\8ValidSudoku.genruntimeconfig.cache
+C:\Users\jacob\Desktop\Neetcode150\8ValidSudoku\obj\Debug\net8.0\ref\8ValidSudoku.dll
