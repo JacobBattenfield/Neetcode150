@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\Neetcode150\11TwoIntegerSum\bin\Debug\net8.0\11TwoIntegerSum.exe
+C:\Users\jacob\Desktop\Neetcode150\11TwoIntegerSum\bin\Debug\net8.0\11TwoIntegerSum.deps.json
+C:\Users\jacob\Desktop\Neetcode150\11TwoIntegerSum\bin\Debug\net8.0\11TwoIntegerSum.runtimeconfig.json
+C:\Users\jacob\Desktop\Neetcode150\11TwoIntegerSum\bin\Debug\net8.0\11TwoIntegerSum.dll
+C:\Users\jacob\Desktop\Neetcode150\11TwoIntegerSum\bin\Debug\net8.0\11TwoIntegerSum.pdb
+C:\Users\jacob\Desktop\Neetcode150\11TwoIntegerSum\obj\Debug\net8.0\11TwoIntegerSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\Neetcode150\11TwoIntegerSum\obj\Debug\net8.0\11TwoIntegerSum.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\11TwoIntegerSum\obj\Debug\net8.0\11TwoIntegerSum.AssemblyInfo.cs
+C:\Users\jacob\Desktop\Neetcode150\11TwoIntegerSum\obj\Debug\net8.0\11TwoIntegerSum.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\11TwoIntegerSum\obj\Debug\net8.0\11TwoIntegerSum.sourcelink.json
+C:\Users\jacob\Desktop\Neetcode150\11TwoIntegerSum\obj\Debug\net8.0\11TwoIntegerSum.dll
+C:\Users\jacob\Desktop\Neetcode150\11TwoIntegerSum\obj\Debug\net8.0\refint\11TwoIntegerSum.dll
+C:\Users\jacob\Desktop\Neetcode150\11TwoIntegerSum\obj\Debug\net8.0\11TwoIntegerSum.pdb
+C:\Users\jacob\Desktop\Neetcode150\11TwoIntegerSum\obj\Debug\net8.0\11TwoIntegerSum.genruntimeconfig.cache
+C:\Users\jacob\Desktop\Neetcode150\11TwoIntegerSum\obj\Debug\net8.0\ref\11TwoIntegerSum.dll

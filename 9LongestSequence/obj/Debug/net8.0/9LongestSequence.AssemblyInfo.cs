@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("9LongestSequence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dfbe99697562caba1fd33fb9a94d6be7109f4b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c470bb6cf97116b9ba11b4216f1396a4a552b3cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("9LongestSequence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("9LongestSequence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

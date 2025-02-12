@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\Neetcode150\10ValidPalindrome\bin\Debug\net8.0\10ValidPalindrome.exe
+C:\Users\jacob\Desktop\Neetcode150\10ValidPalindrome\bin\Debug\net8.0\10ValidPalindrome.deps.json
+C:\Users\jacob\Desktop\Neetcode150\10ValidPalindrome\bin\Debug\net8.0\10ValidPalindrome.runtimeconfig.json
+C:\Users\jacob\Desktop\Neetcode150\10ValidPalindrome\bin\Debug\net8.0\10ValidPalindrome.dll
+C:\Users\jacob\Desktop\Neetcode150\10ValidPalindrome\bin\Debug\net8.0\10ValidPalindrome.pdb
+C:\Users\jacob\Desktop\Neetcode150\10ValidPalindrome\obj\Debug\net8.0\10ValidPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\Neetcode150\10ValidPalindrome\obj\Debug\net8.0\10ValidPalindrome.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\10ValidPalindrome\obj\Debug\net8.0\10ValidPalindrome.AssemblyInfo.cs
+C:\Users\jacob\Desktop\Neetcode150\10ValidPalindrome\obj\Debug\net8.0\10ValidPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\10ValidPalindrome\obj\Debug\net8.0\10ValidPalindrome.sourcelink.json
+C:\Users\jacob\Desktop\Neetcode150\10ValidPalindrome\obj\Debug\net8.0\10ValidPalindrome.dll
+C:\Users\jacob\Desktop\Neetcode150\10ValidPalindrome\obj\Debug\net8.0\refint\10ValidPalindrome.dll
+C:\Users\jacob\Desktop\Neetcode150\10ValidPalindrome\obj\Debug\net8.0\10ValidPalindrome.pdb
+C:\Users\jacob\Desktop\Neetcode150\10ValidPalindrome\obj\Debug\net8.0\10ValidPalindrome.genruntimeconfig.cache
+C:\Users\jacob\Desktop\Neetcode150\10ValidPalindrome\obj\Debug\net8.0\ref\10ValidPalindrome.dll

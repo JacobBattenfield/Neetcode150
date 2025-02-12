@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\Neetcode150\12ThreeSum\bin\Debug\net8.0\12ThreeSum.exe
+C:\Users\jacob\Desktop\Neetcode150\12ThreeSum\bin\Debug\net8.0\12ThreeSum.deps.json
+C:\Users\jacob\Desktop\Neetcode150\12ThreeSum\bin\Debug\net8.0\12ThreeSum.runtimeconfig.json
+C:\Users\jacob\Desktop\Neetcode150\12ThreeSum\bin\Debug\net8.0\12ThreeSum.dll
+C:\Users\jacob\Desktop\Neetcode150\12ThreeSum\bin\Debug\net8.0\12ThreeSum.pdb
+C:\Users\jacob\Desktop\Neetcode150\12ThreeSum\obj\Debug\net8.0\12ThreeSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\Neetcode150\12ThreeSum\obj\Debug\net8.0\12ThreeSum.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\12ThreeSum\obj\Debug\net8.0\12ThreeSum.AssemblyInfo.cs
+C:\Users\jacob\Desktop\Neetcode150\12ThreeSum\obj\Debug\net8.0\12ThreeSum.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\12ThreeSum\obj\Debug\net8.0\12ThreeSum.sourcelink.json
+C:\Users\jacob\Desktop\Neetcode150\12ThreeSum\obj\Debug\net8.0\12ThreeSum.dll
+C:\Users\jacob\Desktop\Neetcode150\12ThreeSum\obj\Debug\net8.0\refint\12ThreeSum.dll
+C:\Users\jacob\Desktop\Neetcode150\12ThreeSum\obj\Debug\net8.0\12ThreeSum.pdb
+C:\Users\jacob\Desktop\Neetcode150\12ThreeSum\obj\Debug\net8.0\12ThreeSum.genruntimeconfig.cache
+C:\Users\jacob\Desktop\Neetcode150\12ThreeSum\obj\Debug\net8.0\ref\12ThreeSum.dll
