@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\Neetcode150\13ContainerWater\bin\Debug\net8.0\13ContainerWater.exe
+C:\Users\jacob\Desktop\Neetcode150\13ContainerWater\bin\Debug\net8.0\13ContainerWater.deps.json
+C:\Users\jacob\Desktop\Neetcode150\13ContainerWater\bin\Debug\net8.0\13ContainerWater.runtimeconfig.json
+C:\Users\jacob\Desktop\Neetcode150\13ContainerWater\bin\Debug\net8.0\13ContainerWater.dll
+C:\Users\jacob\Desktop\Neetcode150\13ContainerWater\bin\Debug\net8.0\13ContainerWater.pdb
+C:\Users\jacob\Desktop\Neetcode150\13ContainerWater\obj\Debug\net8.0\13ContainerWater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\Neetcode150\13ContainerWater\obj\Debug\net8.0\13ContainerWater.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\13ContainerWater\obj\Debug\net8.0\13ContainerWater.AssemblyInfo.cs
+C:\Users\jacob\Desktop\Neetcode150\13ContainerWater\obj\Debug\net8.0\13ContainerWater.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\13ContainerWater\obj\Debug\net8.0\13ContainerWater.sourcelink.json
+C:\Users\jacob\Desktop\Neetcode150\13ContainerWater\obj\Debug\net8.0\13ContainerWater.dll
+C:\Users\jacob\Desktop\Neetcode150\13ContainerWater\obj\Debug\net8.0\refint\13ContainerWater.dll
+C:\Users\jacob\Desktop\Neetcode150\13ContainerWater\obj\Debug\net8.0\13ContainerWater.pdb
+C:\Users\jacob\Desktop\Neetcode150\13ContainerWater\obj\Debug\net8.0\13ContainerWater.genruntimeconfig.cache
+C:\Users\jacob\Desktop\Neetcode150\13ContainerWater\obj\Debug\net8.0\ref\13ContainerWater.dll
