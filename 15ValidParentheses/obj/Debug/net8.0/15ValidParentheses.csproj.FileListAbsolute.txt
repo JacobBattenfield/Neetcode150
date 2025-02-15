@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\Neetcode150\15ValidParentheses\obj\Debug\net8.0\15ValidParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\Neetcode150\15ValidParentheses\obj\Debug\net8.0\15ValidParentheses.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\15ValidParentheses\obj\Debug\net8.0\15ValidParentheses.AssemblyInfo.cs
+C:\Users\jacob\Desktop\Neetcode150\15ValidParentheses\obj\Debug\net8.0\15ValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\15ValidParentheses\obj\Debug\net8.0\15ValidParentheses.sourcelink.json
+C:\Users\jacob\Desktop\Neetcode150\15ValidParentheses\bin\Debug\net8.0\15ValidParentheses.exe
+C:\Users\jacob\Desktop\Neetcode150\15ValidParentheses\bin\Debug\net8.0\15ValidParentheses.deps.json
+C:\Users\jacob\Desktop\Neetcode150\15ValidParentheses\bin\Debug\net8.0\15ValidParentheses.runtimeconfig.json
+C:\Users\jacob\Desktop\Neetcode150\15ValidParentheses\bin\Debug\net8.0\15ValidParentheses.dll
+C:\Users\jacob\Desktop\Neetcode150\15ValidParentheses\bin\Debug\net8.0\15ValidParentheses.pdb
+C:\Users\jacob\Desktop\Neetcode150\15ValidParentheses\obj\Debug\net8.0\15ValidParentheses.dll
+C:\Users\jacob\Desktop\Neetcode150\15ValidParentheses\obj\Debug\net8.0\refint\15ValidParentheses.dll
+C:\Users\jacob\Desktop\Neetcode150\15ValidParentheses\obj\Debug\net8.0\15ValidParentheses.pdb
+C:\Users\jacob\Desktop\Neetcode150\15ValidParentheses\obj\Debug\net8.0\15ValidParentheses.genruntimeconfig.cache
+C:\Users\jacob\Desktop\Neetcode150\15ValidParentheses\obj\Debug\net8.0\ref\15ValidParentheses.dll

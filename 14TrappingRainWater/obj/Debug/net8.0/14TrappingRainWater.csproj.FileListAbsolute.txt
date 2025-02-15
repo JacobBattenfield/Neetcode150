@@ -1,0 +1,15 @@
+C:\Users\jacob\Desktop\Neetcode150\14TrappingRainWater\bin\Debug\net8.0\14TrappingRainWater.exe
+C:\Users\jacob\Desktop\Neetcode150\14TrappingRainWater\bin\Debug\net8.0\14TrappingRainWater.deps.json
+C:\Users\jacob\Desktop\Neetcode150\14TrappingRainWater\bin\Debug\net8.0\14TrappingRainWater.runtimeconfig.json
+C:\Users\jacob\Desktop\Neetcode150\14TrappingRainWater\bin\Debug\net8.0\14TrappingRainWater.dll
+C:\Users\jacob\Desktop\Neetcode150\14TrappingRainWater\bin\Debug\net8.0\14TrappingRainWater.pdb
+C:\Users\jacob\Desktop\Neetcode150\14TrappingRainWater\obj\Debug\net8.0\14TrappingRainWater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Desktop\Neetcode150\14TrappingRainWater\obj\Debug\net8.0\14TrappingRainWater.AssemblyInfoInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\14TrappingRainWater\obj\Debug\net8.0\14TrappingRainWater.AssemblyInfo.cs
+C:\Users\jacob\Desktop\Neetcode150\14TrappingRainWater\obj\Debug\net8.0\14TrappingRainWater.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Desktop\Neetcode150\14TrappingRainWater\obj\Debug\net8.0\14TrappingRainWater.sourcelink.json
+C:\Users\jacob\Desktop\Neetcode150\14TrappingRainWater\obj\Debug\net8.0\14TrappingRainWater.dll
+C:\Users\jacob\Desktop\Neetcode150\14TrappingRainWater\obj\Debug\net8.0\refint\14TrappingRainWater.dll
+C:\Users\jacob\Desktop\Neetcode150\14TrappingRainWater\obj\Debug\net8.0\14TrappingRainWater.pdb
+C:\Users\jacob\Desktop\Neetcode150\14TrappingRainWater\obj\Debug\net8.0\14TrappingRainWater.genruntimeconfig.cache
+C:\Users\jacob\Desktop\Neetcode150\14TrappingRainWater\obj\Debug\net8.0\ref\14TrappingRainWater.dll
