@@ -2,7 +2,7 @@
     static void Main(){
         Console.WriteLine(IsValid("[]"));
         Console.WriteLine(IsValid("([{}])"));
-        Console.WriteLine(IsValid("[)])"));
+        Console.WriteLine(IsValid("([]([]))"));
     }
     static bool IsValid(string s){
         Stack<char> stack = new Stack<char>();
@@ -22,6 +22,6 @@
                 stack.Push(c);
             }
         }
-        return true;
+        return stack.Count==0;
     }
 }
